@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Shadow
+Exec=/opt/Shadow/Shadow.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=shadow
+StartupWMClass=Shadow
+X-AppImage-Version=5.0.1161.9294
+MimeType=x-scheme-handler/tech.shadow;
+Categories=AudioVideo;Audio;Video;Player;TV;
