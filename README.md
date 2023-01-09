@@ -3,7 +3,8 @@ _______________________________________________
 
 ## Install
 
-```$> git clone https://github.com/julianitow/shadowlauncher-updater /opt/shadow-updater
+```
+   $> git clone https://github.com/julianitow/shadowlauncher-updater /opt/shadow-updater
    $> sudo ln -s /opt/shadow-updater/updater /usr/local/bin/shadow-updater
 ```
 
